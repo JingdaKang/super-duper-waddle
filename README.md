@@ -1,32 +1,32 @@
-# super-duper-waddle
+# Super Duper Waddle
 
-This repository is currently a placeholder. Before this README was added, it had no committed project files.
+A placeholder repository containing documentation only. There is no application, library, dataset, dependency manifest, or test suite to install.
 
-## Current contents
+## Requirements
 
-Only repository documentation is available. There is no application, library, dataset, dependency manifest, or test suite to install or run.
+Git.
 
 ## Getting started
-
-Clone the repository to begin adding project content:
 
 ```sh
 git clone https://github.com/JingdaKang/super-duper-waddle.git
 cd super-duper-waddle
 ```
 
-No additional setup is required for the current contents.
-
-## Documentation to add with the implementation
-
-When code is introduced, update this README with its purpose, supported features, prerequisites, installation steps, a minimal working example, and the real test/build commands. Document external services and configuration without committing credentials.
-
 ## Project structure
 
-| File | Purpose |
+| Path | Purpose |
 | --- | --- |
-| `README.md` | Repository overview and current status |
+| `README.md` | Repository overview |
+
+## Configuration and limitations
+
+Choose a descriptive repository name once the project purpose is defined. Add implementation, examples, configuration requirements, and real development commands together.
+
+## Development and validation
+
+No application checks exist yet.
 
 ## License
 
-No license has been declared. Add an appropriate license before inviting third-party reuse.
+No root-level license file is included. Check source-specific notices and obtain permission before redistribution or reuse.
